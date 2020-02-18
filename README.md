@@ -1,2 +1,2 @@
 # feever
-A fitness interval timer
+A fitness interval timer.
