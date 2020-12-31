@@ -1,7 +1,8 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
 export default function App() {
+  const [state, setState] = useState('')
   return (
     <View style={styles.container}>
       <Text>Open up App.tsx to start working on your app!</Text>
