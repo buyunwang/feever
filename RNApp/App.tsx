@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { StyleSheet, Text, View } from 'react-native';
+import WorkoutSet  from './components/WorkoutSet'
 
 export default function App() {
   const [state, setState] = useState('')
