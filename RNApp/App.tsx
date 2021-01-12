@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import WorkoutSet  from './components/WorkoutSet'
+import home from './pages/home'
 
 export default function App() {
   const [state, setState] = useState('')
